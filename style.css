@@ -7,3 +7,12 @@
 body{
     background: #011428;
 }
+
+
+.app{
+   margin: 6.25rem auto 0;
+   padding: 1.875rem;
+}
+.app h1{
+    font-weight: 2rem;
+}
